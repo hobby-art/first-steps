@@ -15,7 +15,7 @@ def flips():
     return heads_or_tails
 
 
-# Function to check if the list of flips has streaks.
+# Function to check if the list of flips has a streak.
 def streaks(list):
 
     streaks_num = 0
